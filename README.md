@@ -6,7 +6,7 @@
  </div>
 
  <div align="center">
-<img src="/static/screenshot1.jpeg" alt="screenshot1"/>
+<img src="/static/screenshot1.jpeg" alt="screenshot1" width="300"/>
 </div>
 
 
